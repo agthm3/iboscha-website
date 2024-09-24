@@ -84,7 +84,7 @@
                                     <li><a href="pricing.html">Macbook</a></li>
                                 </ul>
                             </li>
-                            <li class="dropdown"><a href="services.html">Service</a>
+                            <li class="dropdown"><a href="{{ route('service.index') }}">Service</a>
                                 <ul>
                                     <li><a href="{{ route('service.index') }}">Tracking Service</a></li>
                                 </ul>

@@ -5,7 +5,7 @@
     <!--Start breadcrumb area-->     
 <section class="breadcrumb-area">
 	<div class="container text-center">
-		<h1>Latest News</h1>
+		<h1>Artikel Terbaru</h1>
 	</div>
 </section>
 <!--End breadcrumb area-->
@@ -15,9 +15,9 @@
     <div class="container">
         <div class="left pull-left">
             <ul>
-                <li><a href="index.html">Home</a></li>
+                <li><a href="index.html">Blog</a></li>
                 <li><i class="fa fa-caret-right" aria-hidden="true"></i></li>
-                <li>News</li>
+                <li>Article</li>
             </ul>    
         </div>
         <div class="right pull-right">
